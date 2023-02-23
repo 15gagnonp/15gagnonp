@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @15gagnonp
-- 👀 I’m interested in information security, web development, and software development
+- 👀 I’m interested in cyber security, networking, and software development
 - 🌱 I’m currently studying Computer Information and Technology at Brigham Young Univeristy Idaho
-- 💞️ I’m looking to collaborate on ...
 - 📫 Contact me at 15gagnonp@gmail.com
 
 <!---
