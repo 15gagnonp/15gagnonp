@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @15gagnonp
 - 👀 I’m interested in cyber security, networking, and software development
-- 🌱 I’m currently studying Computer Information and Technology at Brigham Young Univeristy Idaho
+- 🌱 I’m currently studying Computer Information and Technology with a minor in Computer Science at Brigham Young Univeristy Idaho
 - 📫 Contact me at 15gagnonp@gmail.com
 
 <!---
