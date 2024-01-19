@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @15gagnonp
-- 👀 I’m interested in cyber security, networking, and software development
+- 👀 I’m interested in cyber security, networking, ethical hacking, and software development.
 - 🌱 I’m currently studying Computer Information and Technology with a minor in Computer Science at Brigham Young Univeristy Idaho
-- I am studying for the CCNA 200-301 Exam.
+- I am studying for the CCNA 200-301 Exam and CompTIA Security+.
 - 📫 Contact me at 15gagnonp@gmail.com
 
 <!---
