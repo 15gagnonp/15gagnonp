@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @15gagnonp
 - 👀 I’m interested in cyber security, networking, ethical hacking, and software development.
-- 🌱 I’m currently studying Cyber Security at Brigham Young Univeristy Idaho
-- Taking CompTia Security+ April 8th
-- I am studying for the CCNA 200-301 Exam.
+- 🌱 I'm Currently working in Security Operations (Detection, IR, and Engineering)
 - 📫 Contact me at 15gagnonp@gmail.com
+
+## Certificates
+- AWS Certified Cloud Practitioner
+- Security+
+- CySA+
+- Pentest+
 
 <!---
 15gagnonp/15gagnonp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
