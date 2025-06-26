@@ -3,7 +3,6 @@
 - 👋 Hi, I’m @15gagnonp
 - 👀 I’m interested in cyber security, networking, ethical hacking, and software development.
 - 🌱 I'm Currently working in Security Operations (Detection, IR, and Engineering)
-- 📫 Contact me at 15gagnonp@gmail.com
 
 ## Certificates
 - AWS Certified Cloud Practitioner
